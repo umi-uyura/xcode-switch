@@ -1,0 +1,25 @@
+{
+  "name": "xcode-switch",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "description": "Easy run the xcode-select command",
+  "keywords": [
+    "xcode"
+  ],
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xcode-switch": "./bin/xcode-switch",
+    "xcs": "./bin/xcode-switch"
+  },
+  "author": "Umi Uyura",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "0.0.2"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
