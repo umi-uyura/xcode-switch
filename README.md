@@ -8,7 +8,7 @@ Install
 -------
 
 ```
-$ npm install -g umi-uyura/xcode-switch
+$ [sudo] npm install -g umi-uyura/xcode-switch
 ```
 
 
